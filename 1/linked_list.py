@@ -90,4 +90,3 @@ class LinkedList:
                 print("|", itr.data, "|")
                 itr = itr.next
             print("-----")
-            
